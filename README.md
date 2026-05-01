@@ -11,6 +11,7 @@
 
 - 🔭 Building **production-ready data pipelines**
 - ⚡ Skilled in **PySpark, Airflow, dbt, Snowflake, Databricks**
+- 📊 Strong in **Data Visualization with Power BI**
 - ☁️ Working with **cloud-native architectures**
 - 🤖 Exploring **AI + Data Engineering integration**
 - 🎯 Goal: Become a **Top-tier Data & AI Engineer**
@@ -39,17 +40,21 @@
 
 ---
 
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
 ### 🔧 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 📊 Featured Projects
 
 ### 🌍 Global Market Harmonizer
-End-to-end pipeline using **S3, Airflow, Databricks, Snowflake, dbt**
+End-to-end pipeline using **S3, Airflow, Databricks, Snowflake, dbt + Power BI Dashboard**
 
 🔗 https://github.com/rimsha7/global-market-harmonizer
 
@@ -97,6 +102,7 @@ API-based ingestion tool for **data pipelines**
 
 - Building **RAG-based AI systems**
 - Designing **production-grade pipelines**
+- Creating **interactive dashboards with Power BI**
 - Working on **cloud + AI integrations**
 
 ---
