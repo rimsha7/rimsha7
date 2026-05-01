@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rimsha Tehreem</h1>
-<h3 align="center">🚀 Data Engineer | AI Builder | Cloud Enthusiast</h3>
+<h3 align="center">🚀 Data Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&size=24&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+PySpark+%7C+Airflow+%7C+dbt;Building+End-to-End+Data+Pipelines;Turning+Data+into+Insights;Exploring+AI+%2B+Data+Engineering" />
