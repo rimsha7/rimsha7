@@ -54,7 +54,7 @@
 ## 📊 Featured Projects
 
 ### 🌍 Global Market Harmonizer
-End-to-end pipeline using **S3, Airflow, Databricks, Snowflake, dbt + Power BI Dashboard**
+End-to-end pipeline using **S3, Airflow, Databricks, Snowflake, dbt + Power BI**
 
 🔗 https://github.com/rimsha7/global-market-harmonizer
 
@@ -81,23 +81,6 @@ API-based ingestion tool for **data pipelines**
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimsha7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha7&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimsha7&theme=tokyo-night" />
-</p>
-
----
-
 ## 🧩 Current Focus
 
 - Building **RAG-based AI systems**
@@ -113,13 +96,11 @@ API-based ingestion tool for **data pipelines**
   <a href="https://github.com/rimsha7">
     <img src="https://img.shields.io/badge/GitHub-rimsha7-181717?style=for-the-badge&logo=github" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/rimsha-tehreem-097917211">
+    <img src="https://img.shields.io/badge/LinkedIn-Rimsha%20Tehreem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
----
-
-## 💡 Quote
-
-> "Data is useless without pipelines, and pipelines are useless without insights."
 
 ---
 
